@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "Samsung LED Monitor",
+        "price": "6000",
+        "image": "https://images.samsung.com/is/image/samsung/hk-en-monitors-ft350-lf22t350fhcxxk-frontblack-288210116?$2160_1728_PNG$"
+    },
+    {
+        "id": "2",
+        "name": "Dell SE2419HR",
+        "price": "5000",
+        "image": "https://i.pcmag.com/imagery/reviews/02moADILfmMQco86wseEdn6-3..v1614827336.jpg"
+    },
+    {
+        "id": "3",
+        "name": " Philips 28 4K UHD Monitor 288E2A",
+        "price": "7000",
+        "image": "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/IN4952685_phillips_288e2a_ultra_slim_bezel_28_4k_uhd_monitor.jpg/resize?size=600&auth=MjA5OTcwODkwMg__"
+    },
+    {
+        "id": "4",
+        "name": "BenQ 24 Inch IPS Monitor",
+        "price": "9000",
+        "image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFCdXlSZ1N6ZEwuX0FDX1NMMTI4MF8uanBn.jpg"
+    },
+    {
+        "id": "5",
+        "name": "MSI 27 FHD Gaming Monitor",
+        "price": "12000",
+        "image": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/MSIMCG27C5_msi_27_curved_gaming_monitor_g27c5_black.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Asus VZ229H",
+        "price": "20000",
+        "image": "https://shop.daffodil-bd.com/pub/media/catalog/product/a/s/asus_vz249h_23_ips_monitor_1.jpg"
+    },
+    {
+        "id": "7",
+        "name": "OMEN HP 27U Monitor",
+        "price": "11000",
+        "image": "https://www.omen.com/content/dam/sites/omen/worldwide/displays/omen-27u/mew-27-u-4-k-gaming-monitor-shadow-black-core-set-front.png"
+    },
+    {
+        "id": "8",
+        "name": "Lenovo p32u",
+        "price": "15000",
+        "image": "https://m.media-amazon.com/images/I/61p1-IHt3rL._SX450_.jpg"
+    },
+    {
+        "id": "9",
+        "name": "iiyama G-Master GB3271QSU",
+        "price": "18000",
+        "image": "https://media.ldlc.com/r1600/ld/products/00/05/85/06/LD0005850640_1.jpg"
+    },
+    {
+        "id": "10",
+        "name": "XV271 ZbMiiprx Tech-Specs",
+        "price": "13000",
+        "image": "https://static.acer.com/up/Resource/Acer/Monitors/XV1/Images/20201123/Acer-Nitro_Monitor_XV1-series_XV271-H_XV271M-h_modelpreview.png"
+    },
+    {
+        "id": "11",
+        "name": "Mi Global Home",
+        "price": "8000",
+        "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/monitor34/monitor34-01.jpg"
+    }
+]
