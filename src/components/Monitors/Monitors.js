@@ -22,7 +22,7 @@ const Monitors = () => {
             <div className='flex justify-center mt-6'>
                 <Cart cart={cart}></Cart>
             </div>
-            <div className='grid lg:grid-cols-3'>
+            <div className='grid md:grid-cols-2 lg:grid-cols-3'>
                 {
                     monitors.map(monitor => <Monitor monitorCount={monitorCount} monitor={monitor} key={monitor.id}></Monitor>)
                 }
